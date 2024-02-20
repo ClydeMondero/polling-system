@@ -1,0 +1,7 @@
+poll: {
+    title,
+    description,
+    numberOfVotes,
+    numberOfAgrees,
+    numberOfDisagrees,
+}
